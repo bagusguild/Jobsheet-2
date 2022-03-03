@@ -10,7 +10,7 @@ Bagus Dwi Putranto / 1F D4 Teknik Informatika / 2141720079
 
 ### 2.2.3 Pertanyaan
 1. Sebutkan 2 karakteristik class/objek!
-  : - setiap objek berawal dari suatu rancangan class
+    - setiap objek berawal dari suatu rancangan class
     - objek tidak akan ada jika tidak ada class
     - class tidak akan bisa digunakan jika belum dibuat objeknya
 2. Kata kunci apakah yang digunakan untuk mendeklarasikan class?
